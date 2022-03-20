@@ -11,7 +11,12 @@ router.get("/:uid", (req, res) => {
   users = users.filter((user) => {
     if (user["uid"] == req.params.uid) return user;
   });
-  res.json(users);
+  // console.log(users.length);
+  if (users.length == 1) {
+    res.json(users);
+  } else {
+    res.status(404).json({ message: "user not found" });
+  }
 });
 
 module.exports = router;
