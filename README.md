@@ -1,1 +1,3 @@
-//example
+Device an alternatives method for OTP based authentication in areas with weak mobile signal.
+
+Now a days, OTP based authentication/ verification has been implemented in various websites requiring Aadhar based authentication, GeM etc . However, such verification requiring cellular mobile based OTP becomes challenging in remote locations where cellular signals are very weak or poor. Solutions or alternative verification/authentication technologies need to be devised.
