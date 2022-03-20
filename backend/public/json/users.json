@@ -12,7 +12,8 @@
     "subdist": "New Delhi",
     "district": "New Delhi",
     "state": "New delhi",
-    "pincode": 110002
+    "pincode": 110002,
+    "mfa": 0
   },
 
   {
@@ -30,7 +31,8 @@
     "vtc": "Udaipur",
     "district": "Udaipur",
     "state": "Rajasthan",
-    "pincode": 313001
+    "pincode": 313001,
+    "mfa": 0
   },
 
   {
@@ -45,6 +47,7 @@
     "vtc": "Bareilly",
     "district": "Bareilly",
     "state": "Uttar Pradesh",
-    "pincode": 243001
+    "pincode": 243001,
+    "mfa": 0
   }
 ]
